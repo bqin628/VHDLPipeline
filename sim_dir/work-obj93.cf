@@ -1,0 +1,34 @@
+v 4
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "pipe_reg1.vhd" "896bb5bf61c5bce09ab8a46bdb164ae53f7ca586" "20200215193731.125":
+  entity pipe_reg1 at 5( 40) + 0 on 51;
+  architecture behavioral of pipe_reg1 at 18( 385) + 0 on 52;
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "pipe_reg2.vhd" "621a893827a53bd94489f9cf222afbd3e4dc4ef1" "20200215202327.884":
+  entity pipe_reg2 at 5( 44) + 0 on 89;
+  architecture behavioral of pipe_reg2 at 25( 995) + 0 on 90;
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "pipe_reg3.vhd" "1ef3f155efd56df4e77a920b2c255f21b0adb993" "20200214053809.515":
+  entity pipe_reg3 at 5( 45) + 0 on 37;
+  architecture behavioral of pipe_reg3 at 20( 624) + 0 on 38;
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "pipe_reg4.vhd" "00bc89918604bea70833ed776d1d4ace8dbb1004" "20200214053016.822":
+  entity pipe_reg4 at 5( 41) + 0 on 31;
+  architecture behavioral of pipe_reg4 at 19( 505) + 0 on 32;
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "ps_clock.vhd" "b9c178443d550632fbd25063826dff6d096a3623" "20200214053016.148":
+  entity my_clock at 1( 0) + 0 on 13;
+  architecture behavior of my_clock at 10( 206) + 0 on 14;
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "ps_control.vhd" "3e7d0b91912ee34f6b156268b8421237c4053bc1" "20200217184208.893":
+  entity control at 7( 102) + 0 on 129;
+  architecture behavioral of control at 21( 545) + 0 on 130;
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "ps_decode.vhd" "37faf59ff41dfc15dd351a4c25ae28e5eb5dfc29" "20200217184552.218":
+  entity decode at 13( 374) + 0 on 133;
+  architecture behavioral of decode at 48( 1377) + 0 on 134;
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "ps_execute.vhd" "b8cd2638e84ddb78b45f86a7a4f1952b79f0a842" "20200216054101.907":
+  entity execute at 10( 285) + 0 on 115;
+  architecture behavioral of execute at 40( 1258) + 0 on 116;
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "ps_fetch.vhd" "337fd12b4aba29c2ba1759fc6cba34914c101244" "20200218064559.128":
+  entity fetch at 10( 308) + 0 on 139;
+  architecture behavioral of fetch at 25( 659) + 0 on 140;
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "ps_memory.vhd" "3a23916820f833faf460c54bd37b7822f926911e" "20200216011330.665":
+  entity memory at 8( 183) + 0 on 93;
+  architecture behavioral of memory at 29( 544) + 0 on 94;
+file "/Users/bruceqin/Desktop/ECE3057/Assignment_1/PS_SPIM_base/" "spim_pipe.vhd" "def10e3b3a6d2bc094e41c4369b4bb77f941ed4b" "20200215194814.129":
+  entity spim_pipe at 20( 828) + 0 on 75;
+  architecture structural of spim_pipe at 37( 1473) + 0 on 76;
